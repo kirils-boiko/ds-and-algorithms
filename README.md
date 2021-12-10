@@ -14,7 +14,7 @@ The three main focus areas of this project are:
  - **_Performing load testing_** of custom Java and Java Collections API implementations of
 data structures and algorithms, and comparing their performances;
 
-## Data Structure
+## Data Structures
 
 The following data structures are included:
   - Arrays
